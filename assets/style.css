@@ -58,7 +58,14 @@
 .img-arti2{
   width: 300px;
   height: 250px;
-
+}
+.img-arti3{
+  padding: 15px;
+  height: 300px;
+  width: 400px;
+}
+.modi{
+  padding: 30px;
 }
 .img-side{
   padding: 25px;
